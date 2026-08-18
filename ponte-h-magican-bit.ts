@@ -17,7 +17,7 @@ enum MotorSelect {
 }
 
 //% weight=100 color=#FF6600 icon="\uf1b9"
-namespace ponte_h_magican_bit {
+namespace ponte_h {
 
     /**
      * Define a velocidade, sentido e motor
